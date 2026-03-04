@@ -1,0 +1,26 @@
+body {
+  background: rgb(0, 0, 0);
+  color: #898bf4;
+  font-family: monospace;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.ascii {
+  white-space: pre;
+  font-size: 5px;
+  line-height: 5px;
+  overflow-x: auto;
+}
+
+#loading {
+  color: #00ffcc;
+  font-family: monospace;
+  margin-top: 30px;
+}
